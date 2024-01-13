@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Has faster time than sort3 when using a sorted list, but not faster than sort2
+
+sort2 uses: Merge Sort
+
+How do you know?: It has the fastest times with both random and reversed files.
+
+sort3 uses: Selection Sort
+
+How do you know?: Has the slowest time when using a sorted list
