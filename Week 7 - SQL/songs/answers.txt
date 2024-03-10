@@ -1,0 +1,2 @@
+a) You would need to analyze the average energy, valence, and danceability of those songs.
+b) Allowing users to provide explicit feedback on the mood or emotional impact of specific songs to personalize the aura calculation.
